@@ -1,1 +1,1 @@
-# git-workshop-repo
+# git-workshop
